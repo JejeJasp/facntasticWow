@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<h1> Hola mundo </h1>
+
+<div class="navbar">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="jeje.html">Contact</a>
+</div>
+
+<div class="main">
+  <h1>Bottom Navigation Bar</h1>
+  <p>Some text some text some text.</p>
+</div>
+
+</body>
+</html>
